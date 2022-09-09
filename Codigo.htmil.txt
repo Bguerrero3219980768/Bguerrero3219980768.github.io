@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Mi primera pagina</title>
+
+<img src="C:\Users\Brayan Guerrero\OneDrive\Imágenes\imagen 2.jpg"
+
+width="1000px"
+height="200px">
+
+</head>
+<body>
+<h1><B><FONT COLOR="red">BRAYAN DIOVANNY GUERRERO CARDENAS </FONT>
+<br></h1>
+<div>
+<h2> 28/01/2000 <br>
+Desde pequeño me apasiona el futbol y los videojuegos, siempre quise ser un gran deportista, pero a la vez tener un buen rendimiento acandemico, me gustan los viajes y los planes tranquilos, mis padres siempre fueron personas que apoyan mis proyectos, es por eso, mi motivacion para conseguir grandes logros a lo largo de mi vida. <br>
+con mi carrera he estado muy satisfecho, ya que, hasta el momento cumple con mis espectativas de aprendizaje, esto es porque me apasionan los temas relacionados con la carrera, siempre hago lo posible por dar lo mejor en cada trabajo y proyecto que se me cruza y espero todo este esfuerzo sea de gran ayuda para mi futuro laboral.
+</h2>
+<h3>Mis hobbies <br>
+	<ol>
+     <li>Estudiar</li>
+     <li>Practicar deporte</li>
+     <li>Ver futbol</li>
+     <li>Jugar videojuegos</li>
+     <ol></h3>
+     	<h3>Mis peliculas y series favoritas <br>
+	<ol>
+     <li>Pelicula El aro</li>
+     <li>Juego Fifa 23</li>
+     <li>Pelicula Jumanji</li>
+     <li>Juego God of War</li>
+     <ol>
+     	<br>
+     Mi cancion favorita <br>
+     <audio controls>
+    <source src="C:\Users\Brayan Guerrero\OneDrive\Documentos\y2mate.com - QUEVEDO  BZRP Music Sessions 52.mp3" type="audio/mp3">
+</audio></h3>
+
+
+<h3>Mis materias favoritas <br>
+<table class="default">
+
+  <tr>
+
+    <th>Materia</th>
+
+    <th>Nota</th>
+
+    <th>Porque es favorita</th>
+
+  </tr>
+
+  <tr>
+
+    <td>Matematicas</td>
+
+    <td> 4.5 </td>
+
+    <td>Porque me gustan los calculos y los numeros</td>
+
+  </tr>
+
+  <tr>
+
+    <td>Ingles</td>
+
+    <td>4</td>
+
+    <td>Poque me gusta aprender nuevos idiomas</td>
+
+  </tr>
+
+  <tr>
+
+    <td>Naturales</td>
+
+    <td>4.6</td>
+
+    <td>Porque me gusta los temas relacionados con las plantas</td>
+
+  </tr>
+
+</table>
+</h3>
+</body>
+</html>
